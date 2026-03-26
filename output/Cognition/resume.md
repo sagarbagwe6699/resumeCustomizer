@@ -6,70 +6,81 @@ sagarbagwe6699@gmail.com | (213) 551-8468 | [LinkedIn](http://linkedin.com/in/sa
 
 ---
 
-### Summary
+## Experience
 
-Full-stack software engineer with **3+ years of experience** building production enterprise applications spanning **backend services, AI-powered systems, and React-based UIs**. Designed an **agentic LLM debugging system** with structured reasoning over **500+ optimization constraints**. Passionate about building **AI agents that reason on real-world tasks** at scale.
+| **Software Engineering** — **C3 AI,** California, United States | Jun 2023 -- Present |
+| ----------- | ---: |
 
----
+- **Owned and shipped core user-facing features** across a **production enterprise AI application**, spanning **backend service design**, **API contracts**, and **UI integration**, delivering **performant, scalable experiences** used by enterprise engineering teams.
 
-### Experience
+- **Led development across multiple projects**, delivering **10+ end-to-end features** using **JavaScript**, **Python**, **React**, and **Redux**, shipping two major product versions on schedule while making key **product and experience decisions** alongside coding.
 
-**Software Engineer** — **C3 AI,** California, United States | Jun 2023 -- Present
+- **Drove backend performance optimizations**, reducing request processing time by **over 50%** as measured by p95 latency, by implementing **batching** and **rolling aggregation** pipelines that scaled to thousands of concurrent users.
 
-- **Owned and delivered core user-facing features** in a production enterprise application, spanning backend service design, API contracts, and UI integration, ensuring performance, scalability, and correctness.
+- **Architected an agentic LLM-powered debugging system** with **Postgres retrieval**, workflow **graph analysis**, and **structured reasoning** — capable of handling **500+ optimization constraints**, eliminating manual root-cause analysis for an **autonomous AI agent** that reasons over real-world engineering tasks.
 
-- **Led development across multiple projects**, delivering **10+ end-to-end features** using JavaScript, Python, React, and Redux, and releasing two major versions on schedule.
+- **Designed a high-scale in-memory state management system** for asset onboarding, enabling creation and editing of **5,000+ assets simultaneously** with zero UI performance degradation, while minimizing database calls — demonstrating the kind of **systems-level thinking** required to build performant **developer-facing tools**.
 
-- **Drove backend performance optimizations** that improved request processing time by **over 50%**, by implementing **batching strategies and rolling aggregations** to reduce latency at scale.
+- **Mentored and onboarded 3 engineers**, providing technical guidance, code reviews, and support to accelerate team productivity.
 
-- **Architected an agentic LLM-powered debugging system** that **eliminated manual root-cause analysis**, by combining **Postgres retrieval, workflow graph analysis, and structured reasoning** to autonomously resolve issues across **500+ optimization constraints**.
+| **Software Engineering Intern** — **C3 AI,** California, United States | May 2022 -- Aug 2022 |
+| ----------- | ---: |
 
-- **Designed a high-scale in-memory state management system** that enabled **5,000+ simultaneous asset operations with zero UI degradation**, by minimizing database calls and ensuring **data consistency under concurrent load**.
+- **Built an end-to-end application** that unified fragmented ESG data and automated issue tracking, **reducing report generation time by 85%** by designing a full-stack pipeline spanning data ingestion, business logic, and **interactive UI**.
 
-- **Mentored and onboarded 3 engineers**, accelerating team productivity as measured by **faster ramp-up to independent contributions**, by providing technical guidance and thorough code reviews.
+- **Designed the data model and business logic** for ESG issue tracking, enabling impact factor calculation and **interactive visualizations** using **React**, **Redux**, and the C3 AI platform — shipping a complete feature from data layer through frontend.
 
-**Software Engineering Intern** — **C3 AI,** California, United States | May 2022 -- Aug 2022
+| **Full Stack Web Developer Intern** — **Stratzy,** Mumbai, India | Apr 2019 -- Jul 2019 |
+| ----------- | ---: |
 
-- **Built an end-to-end ESG data unification application** that **reduced report generation time by 85%**, by designing the data model, business logic, and **interactive React visualizations** for issue tracking and impact analysis.
-
-- Designed the data model and implemented business logic for ESG issue tracking, enabling impact factor calculation and **interactive visualizations using React**, Redux, and the C3 AI platform.
-
-**Full Stack Web Developer Intern** — **Stratzy,** Mumbai, India | Apr 2019 -- Jul 2019
-
-- **Designed a MongoDB schema for algorithmic trading strategies** that enabled optimum stop-loss and trigger-price computation, and **built a React + Express.js portal** for strategy marketplace transactions.
+- Designed a schema for maintaining and storing strategies employed for algorithmic trading using Mongoose for MongoDB which helped determine optimum stop-loss and trigger prices of orders.
+- Developed an e-commerce portal using React and Express.JS for customers to buy and sell strategies.
 
 ---
 
-### Skills
+## Skills
 
-**Languages:** Python, JavaScript, C, Java | **AI/ML:** TensorFlow, Keras, OpenCV, LLM Agents | **Web:** React, Redux, Node.js, Angular, HTML/CSS | **Infrastructure:** PostgreSQL, MongoDB, MySQL, REST APIs, Linux, Opensearch, Grafana, Apache Spark | **Tools:** GitHub, Figma
+| **Programming Languages:** Python, C, Java | **Frameworks:** Apache Spark, TensorFlow, Keras, OpenCV |
+| ----------- | ---: |
+| **Databases:** MySQL, MongoDB, PostgreSQL | **Web Development:** HTML, CSS, JavaScript, React, Angular, Node.js |
+| **AI & Systems:** **LLM agents**, **structured reasoning**, **agentic workflows**, **graph analysis** | **Other:** GitHub, **REST APIs**, **Linux**, Redux, Opensearch, Grafana, Figma |
 
 ---
 
-### Education
+## Education
 
-**University of Southern California,** Los Angeles, USA | Aug 2021 -- May 2023
+| **University of Southern California,** Los Angeles, USA | Aug 2021 -- May 2023 |
+| ----------- | ---: |
+
 - Masters of Science in Computer Science
 
-**Dwarkadas J. Sanghvi College of Engineering,** Mumbai, India | Aug 2017 -- May 2021
+| **Dwarkadas J. Sanghvi College of Engineering,** Mumbai, India | Aug 2017 -- May 2021 |
+| ----------- | ---: |
+
 - Bachelor of Computer Engineering with Distinction
 
 ---
 
-### Projects
+## Projects
 
-**Image Processing —** Handwriting Cloning and Personality Analysis | Python, OpenCV
+| **Image Processing --** Handwriting Cloning and Personality analysis | Python, OpenCV |
+| ----------- | ---: |
 
-- **Developed an end-to-end handwriting analysis pipeline** that extracts, segments, and replicates handwriting features, achieving **82% CNN recognition accuracy** on segmented characters, by building modules for **offline character segmentation and pen trajectory detection**.
+- **Developed a handwriting analysis system** that extracts and replicates handwriting features, including offline character segmentation and pen trajectory detection.
+- **Trained a convolutional neural network** to recognize segmented handwritten characters, achieving **82% accuracy**.
+- Built modules for **offline character segmentation and pen trajectory detection**.
 
-**Machine Learning —** Stacked Ensembling for COVID-19 Detection | Python
+| **Machine Learning --** Stacked ensembling approach for COVID-19 detection | Python |
+| ----------- | ---: |
 
-- **Designed a four-model CNN ensemble** that improved COVID-19 detection sensitivity over prior approaches, and **co-authored a published paper** on the methodology. ([doi.org/10.1007/s13246-020-00952-6](https://doi.org/10.1007/s13246-020-00952-6))
+- Researched existing COVID-19 testing systems, identified limitations in prior CNN approaches, and designed a four-model CNN ensemble to improve detection accuracy.
+- Co-authored a paper on the same highlighting the improved sensitivity of the ensembled model which can be helpful for medical diagnosis. ([doi.org/10.1007/s13246-020-00952-6](https://doi.org/10.1007/s13246-020-00952-6))
 
-**Web Application —** Computer Programming Exam Portal — [Demo](https://youtu.be/kn7lwJoYfuU) | Node.js, React, Python
+| **Web Application --** Computer Programming Exam Portal - [Demo](https://youtu.be/kn7lwJoYfuU) | Node.js, React, Python |
+| ----------- | ---: |
 
-- **Built a real-time exam platform** handling **600+ concurrent users**, reducing paper correction time by **55%**, by implementing a **Node.js server with React frontend and automated Python scoring**. ([Demo](https://youtu.be/kn7lwJoYfuU))
-
+- Designed and **built an end-to-end exam platform** for conducting C programming exams, handling **600+ concurrent users** on a custom **Node.js** backend.
+- **Automated score generation**, reducing paper correction time by **55%** by building a Python-based auto-grading pipeline — demonstrating **product thinking** and **full-stack execution**.
 
 ---
 ---

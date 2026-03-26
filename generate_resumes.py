@@ -38,13 +38,14 @@ def _iter_job_blocks(text: str) -> Iterable[tuple[str, str]]:
 
 def _extract_resume_markdown(job_block: str) -> Optional[str]:
     """
-    Within a JOB block, keep only the actual resume content (starts at '## SAGAR BAGWE').
+    Within a JOB block, keep only the actual resume content.
+    Accept either '# SAGAR BAGWE' or '## SAGAR BAGWE'.
     """
-    marker = "## SAGAR BAGWE"
-    idx = job_block.find(marker)
-    if idx == -1:
+    header_match = re.search(r"^##?\s+SAGAR BAGWE\s*$", job_block, re.MULTILINE)
+    if header_match is None:
         return None
-    md = job_block[idx:].strip() + "\n"
+
+    md = job_block[header_match.start() :].strip() + "\n"
     return md
 
 
